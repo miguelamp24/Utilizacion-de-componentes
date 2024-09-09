@@ -1,0 +1,40 @@
+C:\Users\m1gu3\OneDrive\Documentos\Pascual\Herramientas de programacion 2\Utilizacion de componentes\bin\Debug\Utilizacion de componentes.exe.config
+C:\Users\m1gu3\OneDrive\Documentos\Pascual\Herramientas de programacion 2\Utilizacion de componentes\bin\Debug\Utilizacion de componentes.exe
+C:\Users\m1gu3\OneDrive\Documentos\Pascual\Herramientas de programacion 2\Utilizacion de componentes\bin\Debug\Utilizacion de componentes.pdb
+C:\Users\m1gu3\OneDrive\Documentos\Pascual\Herramientas de programacion 2\Utilizacion de componentes\obj\Debug\Utilizacion de componentes.csproj.AssemblyReference.cache
+C:\Users\m1gu3\OneDrive\Documentos\Pascual\Herramientas de programacion 2\Utilizacion de componentes\obj\Debug\Utilizacion_de_componentes.Form1.resources
+C:\Users\m1gu3\OneDrive\Documentos\Pascual\Herramientas de programacion 2\Utilizacion de componentes\obj\Debug\Utilizacion_de_componentes.PDForm.resources
+C:\Users\m1gu3\OneDrive\Documentos\Pascual\Herramientas de programacion 2\Utilizacion de componentes\obj\Debug\Utilizacion_de_componentes.Properties.Resources.resources
+C:\Users\m1gu3\OneDrive\Documentos\Pascual\Herramientas de programacion 2\Utilizacion de componentes\obj\Debug\Utilizacion_de_componentes.WBform.resources
+C:\Users\m1gu3\OneDrive\Documentos\Pascual\Herramientas de programacion 2\Utilizacion de componentes\obj\Debug\Utilizacion de componentes.csproj.GenerateResource.cache
+C:\Users\m1gu3\OneDrive\Documentos\Pascual\Herramientas de programacion 2\Utilizacion de componentes\obj\Debug\Utilizacion de componentes.csproj.CoreCompileInputs.cache
+C:\Users\m1gu3\OneDrive\Documentos\Pascual\Herramientas de programacion 2\Utilizacion de componentes\obj\Debug\Utilizacion de componentes.exe
+C:\Users\m1gu3\OneDrive\Documentos\Pascual\Herramientas de programacion 2\Utilizacion de componentes\obj\Debug\Utilizacion de componentes.pdb
+C:\Users\m1gu3\OneDrive\Documentos\Pascual\Herramientas de programacion 2\Utilizacion de componentes\bin\Debug\Interop.WMPLib.dll
+C:\Users\m1gu3\OneDrive\Documentos\Pascual\Herramientas de programacion 2\Utilizacion de componentes\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\m1gu3\OneDrive\Documentos\Pascual\Herramientas de programacion 2\Utilizacion de componentes\obj\Debug\Interop.WMPLib.dll
+C:\Users\m1gu3\OneDrive\Documentos\Pascual\Herramientas de programacion 2\Utilizacion de componentes\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\m1gu3\OneDrive\Documentos\Pascual\Herramientas de programacion 2\Utilizacion de componentes\obj\Debug\Utilizacion de componentes.csproj.ResolveComReference.cache
+C:\Users\m1gu3\OneDrive\Documentos\Pascual\Herramientas de programacion 2\Utilizacion de componentes\obj\Debug\Utilizacion_de_componentes.WMPform.resources
+C:\Users\ajmer\Documents\VS\Utilizacion de componentes - Miguel Angel Mercado Perez\Utilizacion de componentes\obj\Debug\Utilizacion de componentes.csproj.AssemblyReference.cache
+C:\Users\ajmer\Documents\VS\Utilizacion de componentes - Miguel Angel Mercado Perez\Utilizacion de componentes\obj\Debug\Interop.WMPLib.dll
+C:\Users\ajmer\Documents\VS\Utilizacion de componentes - Miguel Angel Mercado Perez\Utilizacion de componentes\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ajmer\Documents\VS\Utilizacion de componentes - Miguel Angel Mercado Perez\Utilizacion de componentes\obj\Debug\Utilizacion de componentes.csproj.ResolveComReference.cache
+C:\Users\ajmer\Documents\VS\Utilizacion de componentes - Miguel Angel Mercado Perez\Utilizacion de componentes\obj\Debug\Utilizacion de componentes.exe
+C:\Users\ajmer\Documents\VS\Utilizacion de componentes - Miguel Angel Mercado Perez\Utilizacion de componentes\obj\Debug\Utilizacion de componentes.pdb
+C:\Users\ajmer\Documents\VS\Utilizacion de componentes - Miguel Angel Mercado Perez\Utilizacion de componentes\bin\Debug\Utilizacion de componentes.exe.config
+C:\Users\ajmer\Documents\VS\Utilizacion de componentes - Miguel Angel Mercado Perez\Utilizacion de componentes\bin\Debug\Utilizacion de componentes.exe
+C:\Users\ajmer\Documents\VS\Utilizacion de componentes - Miguel Angel Mercado Perez\Utilizacion de componentes\bin\Debug\Utilizacion de componentes.pdb
+C:\Users\ajmer\Documents\VS\Utilizacion de componentes - Miguel Angel Mercado Perez\Utilizacion de componentes\bin\Debug\Interop.WMPLib.dll
+C:\Users\ajmer\Documents\VS\Utilizacion de componentes - Miguel Angel Mercado Perez\Utilizacion de componentes\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ajmer\Documents\VS\Utilizacion de componentes - Miguel Angel Mercado Perez\Utilizacion de componentes\obj\Debug\Utilizacion_de_componentes.Form1.resources
+C:\Users\ajmer\Documents\VS\Utilizacion de componentes - Miguel Angel Mercado Perez\Utilizacion de componentes\obj\Debug\Utilizacion_de_componentes.PDForm.resources
+C:\Users\ajmer\Documents\VS\Utilizacion de componentes - Miguel Angel Mercado Perez\Utilizacion de componentes\obj\Debug\Utilizacion_de_componentes.WMPform.resources
+C:\Users\ajmer\Documents\VS\Utilizacion de componentes - Miguel Angel Mercado Perez\Utilizacion de componentes\obj\Debug\Utilizacion_de_componentes.Properties.Resources.resources
+C:\Users\ajmer\Documents\VS\Utilizacion de componentes - Miguel Angel Mercado Perez\Utilizacion de componentes\obj\Debug\Utilizacion_de_componentes.WBform.resources
+C:\Users\ajmer\Documents\VS\Utilizacion de componentes - Miguel Angel Mercado Perez\Utilizacion de componentes\obj\Debug\Utilizacion de componentes.csproj.GenerateResource.cache
+C:\Users\ajmer\Documents\VS\Utilizacion de componentes - Miguel Angel Mercado Perez\Utilizacion de componentes\obj\Debug\Utilizacion de componentes.csproj.CoreCompileInputs.cache
+C:\Users\ajmer\Documents\VS\Utilizacion de componentes - Miguel Angel Mercado Perez\Utilizacion de componentes\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\ajmer\Documents\VS\Utilizacion de componentes - Miguel Angel Mercado Perez\Utilizacion de componentes\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ajmer\Documents\VS\Utilizacion de componentes - Miguel Angel Mercado Perez\Utilizacion de componentes\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\ajmer\Documents\VS\Utilizacion de componentes - Miguel Angel Mercado Perez\Utilizacion de componentes\bin\Debug\AxInterop.AcroPDFLib.dll
